@@ -6,9 +6,6 @@
             <td style="text-align: center">
                     <img src="art/item_control.gif" width="200"/>
             </td>            
-            <td style="text-align: center">
-                    <img src=""art/delete_item.gif" width="200"/>
-            </td>    
         </tr>
     </table>
 </div>
