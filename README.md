@@ -7,7 +7,7 @@
                     <img src="art/first_art.gif" width="200"/>
             </td>            
             <td style="text-align: center">
-                    <img src=""art/second_art.gif" width="200"/>
+                    <img src=""art/first_art.gif" width="200"/>
             </td>    
         </tr>
     </table>
