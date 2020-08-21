@@ -8,12 +8,12 @@
             </td>            
             <td style="text-align: center">
                     <img src=""art/second_art.gif" width="200"/>
-            </td>     
+            </td>    
         </tr>
     </table>
 </div>
 
-App was written using Pure Flutter. It contains the following topics:
+App was written using `Pure Flutter`. It contains the following topics:
 - InheritedWidget
 - ValueNotifier (Custom ValueNotifier)
 - ValueListenableBuilder
